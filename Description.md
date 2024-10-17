@@ -1,3 +1,4 @@
+#### Figma Link: [WalkWays Initial Mockup](https://www.figma.com/design/mcwpOXx8xReXBIz7TZayVl/WalkWays-Initial-Mockup?node-id=83-463&t=cWngKHcSS7f4BmeS-1)
 ### Description
  The WalkWays app's design caters to casual walkers and tourists looking for curated, enjoyable urban walking routes. The minimalist UI ensures ease of use, keeping the experience simple while focusing on delivering maximum value rather than overwhelming features. Here's how the design aligns with the target demographic and success criteria:
 
